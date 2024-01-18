@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ankit-digiexcel
+- 👀 I’m interested in developing in next gen technologies
+- 🌱 I’m currently learning nextJs 14
+- 💞️ I’m looking to collaborate on opensource projects
+- 📫 How to reach me ankit.sharma@digiexcel.in
